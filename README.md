@@ -1,2 +1,2 @@
 # MIPS
-Implementation of a 5-stage pipelined Mips processor on verilog
+Implementation of a 5-stage pipelined MIPS processor using Verilog.
